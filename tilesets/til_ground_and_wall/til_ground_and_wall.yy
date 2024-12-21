@@ -1,0 +1,45 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"til_ground_and_wall",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[56,69,67,68,45,57,0,10,23,22,0,0,0,0,0,0,],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":15,
+    "SerialiseWidth":20,
+    "TileCompressedData":[
+      -105,0,-5,20,-3,0,-5,13,-7,0,-5,20,-3,0,-5,13,-7,0,-5,20,-3,0,-5,13,-7,0,-5,20,-3,0,-5,13,-7,0,-5,20,
+      -3,0,-5,13,-34,0,-2,56,6,57,0,0,55,56,56,-5,0,-3,44,-4,0,-2,56,6,57,0,0,55,56,56,-5,0,-3,20,-4,0,-2,
+      56,6,57,0,0,55,56,56,-5,0,-3,20,-12,0,
+    ],
+    "TileDataFormat":1,
+  },
+  "name":"til_ground_and_wall",
+  "out_columns":9,
+  "out_tilehborder":0,
+  "out_tilevborder":0,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_ground_and_walls",
+    "path":"sprites/spr_ground_and_walls/spr_ground_and_walls.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":84,
+}
